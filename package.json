@@ -1,0 +1,12 @@
+{
+  "name": "vless-proxy-2",
+  "version": "2.0.0",
+  "description": "VLESS Proxy Node 2 - Singapore",
+  "main": "functions/index.js",
+  "scripts": {
+    "deploy": "wrangler pages deploy ."
+  },
+  "keywords": ["vless", "proxy", "cloudflare", "pages"],
+  "author": "",
+  "license": "MIT"
+}
